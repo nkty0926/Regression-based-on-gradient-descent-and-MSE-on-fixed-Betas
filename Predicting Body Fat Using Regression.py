@@ -3,7 +3,6 @@
 // Semester:         CS 540 Fall 2020
 // Authors:          Tae Yong Namkoong
 // CS Login:         namkoong
-// NetID:            kiatvithayak
 // References:       TA's & Peer Mentor's Office Hours
                      https://www.geeksforgeeks.org/linear-regression-python-implementation/
                      https://www.geeksforgeeks.org/solving-linear-regression-in-python/
