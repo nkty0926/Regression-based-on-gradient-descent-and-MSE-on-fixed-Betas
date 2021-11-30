@@ -1,4 +1,4 @@
-# **Regression-based-on-gradient-descent-and-MSE-on-fixed-Betas**
+# **Regression Based On Stepwise Iterative/Stochastic Gradient Descent from  MSE on Fixed Betas of Given Features**
 
 - Hybrid Machine Learning Optimization Model for Predicting Body Fat Percentages By Using Stepwise Iterative/Stochastic Gradient Descents on Mean Squared Error. 
 - Processes a given dataset of features (CSV) and performs regression on iterative gradient descent by fixing betas in a Closed-Form Solution.
@@ -22,3 +22,5 @@ from numpy.linalg import inv
 ![](Images/csv%20file.png)
 ![](Images/test%20results1.png)
 ![](Images/test%20results2.png)
+![](Images/correlation%20matrix.png)
+![](Images/gradient%20descent.png)
