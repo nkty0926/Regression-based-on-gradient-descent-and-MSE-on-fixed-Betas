@@ -1,15 +1,8 @@
- '''
+'''
 // Main File:        regression.py
 // Semester:         CS 540 Fall 2020
 // Authors:          Tae Yong Namkoong
 // CS Login:         namkoong
-// NetID:            kiatvithayak
-// References:       TA's & Peer Mentor's Office Hours
-                     https://www.geeksforgeeks.org/linear-regression-python-implementation/
-                     https://www.geeksforgeeks.org/solving-linear-regression-in-python/
-                     https://towardsdatascience.com/implement-gradient-descent-in-python-9b93ed7108d1
-                     https://stackoverflow.com/questions/17784587/gradient-descent-using-python-and-numpy
-                     https://towardsdatascience.com/simple-and-multiple-linear-regression-with-python-c9ab422ec29c
 '''
 import csv
 import numpy as np
